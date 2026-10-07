@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Mohammad+Ali+Alar;Full+Stack+Developer;Laravel+%7C+Node.js+%7C+React;ERP+System+Architect;Database+%26+API+Designer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=0000ff&center=true&vCenter=true&width=700&lines=Mohammad+Ali+Alar;Full+Stack+Developer;)
 
 **Software Engineer** with **3+ years** of experience building enterprise ERP systems, secure RESTful APIs, and high-performance web applications.
 
