@@ -12,6 +12,7 @@
 
 </div>
 
+---
 
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
@@ -33,6 +34,13 @@ const mohammad = {
 };
 ```
 
+- 🔭 I'm currently working on **ERP modules & API integrations**
+- 🌱 I'm exploring **advanced system architecture & cloud deployment**
+- 💬 Ask me about **Laravel, Node.js, React, ASP.NET, Database Design, RBAC, ERP**
+- 📫 How to reach me: **alialimohammad12341234@gmail.com**
+
+---
+
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
@@ -41,10 +49,10 @@ const mohammad = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 **Databases & Architecture**
 
@@ -67,3 +75,67 @@ const mohammad = {
 ![OTP](https://img.shields.io/badge/OTP_Verification-4285F4?style=for-the-badge&logo=googleauthenticator&logoColor=white)
 ![Payment Gateway](https://img.shields.io/badge/Payment_Gateways-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+### 🏗️ ERP System — HR & Task Management
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/MohammadAli20)
+- **Tech**: Laravel, MySQL, REST API, WebSockets
+- **Impact**: Reduced executive report loading time by **40%**
+- **Features**: HR automation, task distribution, employee competency mapping, real-time notifications
+
+### 🛒 E-Commerce Platform — Backend API
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/MohammadAli20)
+- **Tech**: Node.js, Express, MongoDB, Payment Gateway
+- **Features**: Dynamic product catalogs, automated inventory workflows, secure order processing, tokenized auth
+
+### 🌍 Tourism & Charity Dashboard
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/MohammadAli20)
+- **Tech**: React, Redux, Tailwind CSS, RBAC
+- **Features**: 5 permission levels, beneficiary records, donation management, travel bookings
+
+### 🗄️ Enterprise ERD & Database Architecture
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/MohammadAli20)
+- **Tech**: PostgreSQL, MySQL, ERD Modeling
+- **Features**: Complete relational schemas for ERP modules, optimized indexing, data flow architecture
+
+---
+
+<!-- EXPERIENCE TIMELINE -->
+## 💼 Experience Timeline
+
+| Period | Role | Focus |
+|--------|------|-------|
+| 2024 – 2026 | **React & Web Developer** (Freelance) | Tourism & Charity Organizations |
+| 2024 – 2025 | **Backend & ERD Developer** | Amumuh and Rugee |
+| 2023 – 2024 | **Laravel & ERP Developer** | Al-Yousser for Construction Development |
+| 2023 – Present | **Full Stack Developer** (Freelance) | E-Commerce Platform |
+
+---
+
+<!-- EDUCATION & CERTIFICATIONS -->
+## 🎓 Education & Certifications
+
+- **Bachelor's Degree in Informatics Engineering** — Arab International University (AIU)
+- **Fullstack Development & Software Engineering Specializations**
+
+**Languages:** Arabic (Native) · English (Professional Working Proficiency)
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Great
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=for-the-badge&logo=netlify&logoColor=white)](https://mohammadali20.netlify.app)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alialimohammad12341234@gmail.com)
+
+*"Architecting systems that scale, optimizing queries that matter."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohammadAli20&color=2E9EF7&style=flat-square)
+
+</div>
